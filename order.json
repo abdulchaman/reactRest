@@ -1,0 +1,34 @@
+{
+  "order": [
+    {
+      "id": 1768,
+      "rest_name": "AMA Cafe",
+      "name": "Nikita",
+      "phone": "8908173475",
+      "email": "nikki@gmail.com",
+      "address": "YTS 33/10",
+      "menuItem": "34,32",
+      "cost": 475
+    },
+    {
+      "id": 1372,
+      "rest_name": "Food Adda",
+      "name": "Raj",
+      "phone": "9987678",
+      "email": "raj@gmail.com",
+      "address": "BBSR",
+      "menuItem": "15,11,13,12",
+      "cost": 966
+    },
+    {
+      "id": 38297,
+      "rest_name": "Domino's Pizza",
+      "name": "Nikita",
+      "phone": "8908173475",
+      "email": "nikki@gmail.com",
+      "address": "YTS 33/10",
+      "menuItem": "4,1,2,4",
+      "cost": 487
+    }
+  ]
+}

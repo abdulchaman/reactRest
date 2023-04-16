@@ -1,0 +1,10 @@
+.ordr-itm-con{
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.ordr-itm-img img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
